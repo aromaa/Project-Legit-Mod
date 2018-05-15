@@ -1,0 +1,16 @@
+[
+{
+  "modid": "projectlegitmod",
+  "name": "Project Legit Mod",
+  "description": "Tries to prevent cheating by enabling authoractive protocol",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["isokissa3"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
